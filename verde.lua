@@ -76,7 +76,7 @@ verde.ConCMD['Add']("verde_unload", function()
 	_G.VERDE = nil
 	print(Color(255, 0, 0, 255)"verde unloaded")
 
-	_G.MAJPK = true
-print(Color(0, 66, 0, 255)"Loaded.")
+	_G.VERDE = true
+print(Color(0, 66, 0, 255)"verde initialised")
 
 end )
